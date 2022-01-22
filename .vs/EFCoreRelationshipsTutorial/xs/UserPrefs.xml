@@ -1,0 +1,37 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{7A48ACCD-15AB-4F03-A739-D0FD244573D6}|Default">
+  <MonoDevelop.Ide.ItemProperties.EFCoreRelationshipsTutorial PreferredExecutionTarget="/Applications/Firefox Developer Edition.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="EFCoreRelationshipsTutorial/Models/Weapon.cs" Line="18" Column="1" />
+      <File FileName="EFCoreRelationshipsTutorial/Models/Character.cs" Line="17" Column="43" />
+      <File FileName="EFCoreRelationshipsTutorial/Data/DataContext.cs" Line="13" Column="4" />
+      <File FileName="EFCoreRelationshipsTutorial/Controllers/CharacterController.cs" Line="59" Column="38" />
+      <File FileName="EFCoreRelationshipsTutorial/Models/AddWeaponDto.cs" Line="7" Column="46" />
+      <File FileName="EFCoreRelationshipsTutorial/Program.cs" Line="11" Column="5" />
+      <File FileName="EFCoreRelationshipsTutorial/EFCoreRelationshipsTutorial.csproj" Line="5" Column="18" />
+      <File FileName="EFCoreRelationshipsTutorial/Migrations/20220122102155_CharacterSkillRelationship.cs" Line="1" Column="1" />
+      <File FileName="EFCoreRelationshipsTutorial/Models/AddCharacterSkillDto.cs" Line="7" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EFCoreRelationshipsTutorial" expanded="True">
+            <Node name="EFCoreRelationshipsTutorial" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+</Properties>
